@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#587628"
+        "#587628",
+        "#7a2dab"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -205,9 +206,9 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "columnsColor": "#587628",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "columnsColor": "#7a2dab",
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "columns": "6",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-3430-2000x1333.jpg",
@@ -250,7 +251,7 @@
           "_anchor": "features2-3",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#587628"
+              "background-color": "#7a2dab"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#f3c649"
