@@ -207,7 +207,7 @@
             "ShowTexts": true,
             "showButtons": false,
             "columnsColor": "#7a2dab",
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "columns": "6",
             "bgImageRadio": true,
@@ -221,7 +221,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.4"
           },
           "title1": "校務公告區",
           "subtitle1": "Bootstrap 4 has been noted",
