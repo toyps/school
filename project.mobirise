@@ -22,7 +22,9 @@
       },
       "additionalSetColors": [
         "#587628",
-        "#7a2dab"
+        "#7a2dab",
+        "#32480e",
+        "#aa00b9"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -206,7 +208,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "columnsColor": "#7a2dab",
+            "columnsColor": "#32480e",
             "paddingTop": "2",
             "paddingBottom": "2",
             "columns": "6",
@@ -220,7 +222,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#aa00b9",
             "overlayOpacity": "0.4"
           },
           "title1": "校務公告區",
@@ -251,7 +253,7 @@
           "_anchor": "features2-3",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#7a2dab"
+              "background-color": "#32480e"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#f3c649"
