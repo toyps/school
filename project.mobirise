@@ -222,7 +222,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#aa00b9",
+            "overlayColor": "#32480e",
             "overlayOpacity": "0.4"
           },
           "title1": "校務公告區",
@@ -236,7 +236,7 @@
           "caption3": "防災資源網",
           "title4": "導師區",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"http://sfs.boe.ttct.edu.tw/\" target=\"_blank\" class=\"text-black\"><b>SFS學務系統</b></a><br><a href=\"https://docs.google.com/document/d/19JTjDAZvvFF2oAG33zc5i_jJswbXGhd0jA_wjaQK5M8/edit?usp=sharing\" target=\"_blank\"><b>社團與特定班名單</b></a><a href=\"http://sfs.boe.ttct.edu.tw/\" target=\"_blank\" class=\"text-black\"><br></a>導護工作<a href=\"http://sfs.boe.ttct.edu.tw/\" target=\"_blank\" class=\"text-black\"><br></a><br><a href=\"http://sfs.boe.ttct.edu.tw/\" target=\"_blank\"><br></a>",
+          "caption4": "<a href=\"https://docs.google.com/document/d/19JTjDAZvvFF2oAG33zc5i_jJswbXGhd0jA_wjaQK5M8/edit?usp=sharing\" target=\"_blank\"><b>社團與特定班名單</b></a><a href=\"http://sfs.boe.ttct.edu.tw/\" target=\"_blank\" class=\"text-black\"><br></a>導護工作<br>SFS學務系統<a href=\"http://sfs.boe.ttct.edu.tw/\" target=\"_blank\" class=\"text-black\"><br></a><br><a href=\"http://sfs.boe.ttct.edu.tw/\" target=\"_blank\"><br></a>",
           "title5": "職員區",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "<a href=\"http://sfs.boe.ttct.edu.tw/modules/board/board_view.php\" target=\"_blank\">公告系統</a>",
@@ -257,6 +257,9 @@
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#f3c649"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
             }
           }
         },

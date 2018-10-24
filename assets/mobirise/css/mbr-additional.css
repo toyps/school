@@ -478,3 +478,6 @@ h6,
 #features2-3 .mbr-cards-col:nth-child(even) .card-text {
   color: #f3c649;
 }
+#features2-3 .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+}
