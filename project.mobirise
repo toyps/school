@@ -242,7 +242,7 @@
           "caption5": "<a href=\"http://sfs.boe.ttct.edu.tw/modules/board/board_view.php\" target=\"_blank\">公告系統</a>",
           "title6": "教育處行政宣達",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "<a href=\"http://12basic.edu.tw/\" target=\"_blank\">十二年國教與新課綱</a>",
+          "caption6": "<a href=\"http://12basic.edu.tw/\" target=\"_blank\">十二年國教與新課綱</a><br>新課綱總綱與領綱",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -359,11 +359,11 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"http://pair.nknu.edu.tw/literacy/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">識字量網站</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">補救教學網站</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://exam.tcte.edu.tw/tbt_html/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">補救教學科技化評量網站</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">教育優先區網站<br></a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">教育處資訊服務入口網</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.ttct.edu.tw\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">教育處資訊服務入口網</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://jcstats.moe.gov.tw/schoollogin.aspx\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">定期公務填報</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">教育處佈告欄</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">教育處最新公告</a>",
           "_tags": [
             "主题"
           ],
