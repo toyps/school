@@ -362,7 +362,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://exam.tcte.edu.tw/tbt_html/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">補救教學科技化評量網站</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://epa.ntcu.edu.tw/edu/index.php\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">教育優先區網站<br></a>",
           "button4": "<a data-app-btn=\"true\" href=\"http://portal.boe.ttct.edu.tw/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">教育處資訊服務入口網</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://jcstats.moe.gov.tw/schoollogin.aspx\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">定期公務填報</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://jcstats.moe.gov.tw/schoollogin.aspx\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">防制學生藥物濫用資源網</a>",
           "button6": "<a data-app-btn=\"true\" href=\"http://www.ttct.edu.tw/post/2015post.php?getid=1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">教育處最新公告</a>",
           "_tags": [
             "主题"
