@@ -32,7 +32,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -260,6 +260,40 @@
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
               "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-4083-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "107下友善校園週<br>YOU GATTA SHOW LOVE TO THEM",
+          "text": "打造和諧的空間\n<br>營造友善的校園\n<br>養成七大品格力<br><br>熱誠 堅毅 自制 人際 樂觀 好奇 感恩\n<br>&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-c",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f7da64"
             }
           }
         },

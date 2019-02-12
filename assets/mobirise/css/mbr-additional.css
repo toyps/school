@@ -481,6 +481,9 @@ h6,
 #features2-3 .mbr-cards-col:nth-child(even) .card-title {
   color: #ffffff;
 }
+#header1-c .mbr-section-title {
+  color: #f7da64;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
